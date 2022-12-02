@@ -1,2 +1,6 @@
 #!/bin/bash
-echo "Your file should finish with a new line"
+echo "0-current_working_directory
+
+1-listit
+
+README.md"
